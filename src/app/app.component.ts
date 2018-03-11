@@ -5,6 +5,7 @@ import { Component } from "@angular/core";
   template: `
   <div><h1>{{pageTitle}}</h1>
     <div><h2>First Component</h2></div>
+    <pm-products></pm-products>
   </div>`
 })
 
